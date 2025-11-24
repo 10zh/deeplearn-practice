@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="25304b3f-c1c1-49ee-8394-d9ea7b1bdc55" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/basic/pytorchBasic.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/self_attention/self_attention.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/pytorchBasic.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/basic/pytorchBasic.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/practice/small_for_gpt/model.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/practice/small_for_gpt/model.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
