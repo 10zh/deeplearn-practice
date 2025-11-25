@@ -60,6 +60,7 @@ if __name__ == '__main__':
         .unsqueeze(2)
         .expand(3, 8, 2, 2)
     )
+    print(attention_mask.shape)
     x = torch.rand(3, 2, 128)
     net = MultiHeadSelfAttention(128, 8)  # head_dim = 16
     print(net(x, attention_mask))

@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="25304b3f-c1c1-49ee-8394-d9ea7b1bdc55" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/practice/self_attention/multi_head_self_attention.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/self_attention/multi_head_self_attention.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/self_attention/multi_head_self_attention.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/self_attention/multi_head_self_attention.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/practice/self_attention/self_attention.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/practice/self_attention/self_attention.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +39,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.multi_head_self_attention.executor": "Run",
+    "Python.multi_head_self_attention.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -110,5 +109,16 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/practice/self_attention/multi_head_self_attention.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
