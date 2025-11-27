@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="25304b3f-c1c1-49ee-8394-d9ea7b1bdc55" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/llm/transformer/the-verdict.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.virtual_documents/practice/llm/transformer/Untitled.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.virtual_documents/practice/llm/transformer/Untitled.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.virtual_documents/practice/llm/transformer/transformer.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.virtual_documents/practice/llm/transformer/transformer.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/llm/transformer/transformer.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/practice/llm/transformer/transformer.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,12 +45,13 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/opt/project/deepLearnProject/practice/logistic_for_cat_category/data",
+    "last_opened_file_path": "/opt/project/deepLearnProject/practice/llm/transformer",
     "settings.editor.selected.configurable": "http.proxy"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/practice/llm/transformer" />
       <recent name="$PROJECT_DIR$/practice/logistic_for_cat_category/data" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
